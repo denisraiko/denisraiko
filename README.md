@@ -1,16 +1,26 @@
-## Hi there 👋
+# 🚀 Denis Raiko
 
-<!--
-**denisraiko/denisraiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**👨‍💻 iOS Development Enthusiast | UIKit & SwiftUI Expert**
 
-Here are some ideas to get you started:
+🌟 Passionate about crafting beautiful and user-friendly applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪 Achiever with strong self-discipline, reaching goals independently.
+
+🎨 Lover of aesthetically pleasing projects.
+
+---
+
+## 🛠️ Technologies & Tools
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FF6F00?style=flat-square&logo=swift&logoColor=white)
+
+## 📈 GitHub Stats
+
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisRaiko&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisRaiko&layout=compact&theme=radical)
