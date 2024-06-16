@@ -17,5 +17,11 @@
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FF6F00?style=flat-square&logo=swift&logoColor=white)
 
+## 📬 Contact Me
 
-![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin(https://www.linkedin.com/in/denis-raiko-75011621b/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raikod96@gmail.com)
+
+---
+
+**"Code is like humor. When you have to explain it, it’s bad."** – *Cory House*
