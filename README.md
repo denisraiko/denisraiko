@@ -18,6 +18,4 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FF6F00?style=flat-square&logo=swift&logoColor=white)
 
 
-## 🏆 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisRaiko&layout=compact&theme=radical)
+![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
