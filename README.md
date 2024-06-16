@@ -17,9 +17,6 @@
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FF6F00?style=flat-square&logo=swift&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenisRaiko&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 
